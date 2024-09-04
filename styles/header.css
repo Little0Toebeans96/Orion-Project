@@ -1,0 +1,23 @@
+.header {
+padding: 16px 0px;
+}
+
+.header_wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navigation_list {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+}
+
+
+.navigation_list-link, .header_phone  {
+  color: white;
+  font-size: 16px;
+  font-weight: 500  ;
+}

@@ -1,0 +1,50 @@
+.container {
+  font-family: Roboto, sans-serif;
+  color: white;
+
+}
+
+
+.main__inner {
+  display: flex;
+  align-items: center;
+  align-content: center;
+}
+
+.main__inner-line {
+  color: white;
+  width: 317px;
+}
+
+.main__inner-image {
+  width: 626.4px;
+  height: 625.52px;
+}
+
+.main__inner-subtitle {
+  color: white;
+  font-weight: lighter;
+  font-size: 28px;
+}
+
+.main__inner-subtitle2{
+  color: white;
+  margin-top: 12px;
+  font-size: 104px;
+}
+
+.main__slogan {
+  width: 199px;
+  height: 105px;
+  font-size: 30px;
+  font-weight: 500;
+  padding-bottom: 123px;
+}
+
+.main__copyright {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 20px;
+  font-weight: 600;
+  padding-bottom: 40px;
+  }
